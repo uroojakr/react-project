@@ -1,0 +1,24 @@
+.card {
+    width: 175px;
+    font-size: 12px;
+}
+
+.gray {
+    color: #918E9B;
+}
+
+.card--image {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card--stats {
+    display: flex;
+    align-items: center;
+}
+.card--star {
+    height: 15px;
+}
+.bold {
+    font-weight: bold;
+}
